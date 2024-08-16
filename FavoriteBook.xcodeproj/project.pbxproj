@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A32FBA0F2C6FF94600552850 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32FBA0E2C6FF94600552850 /* DetailsView.swift */; };
 		A3FD770D2C6FB50900DFD6D7 /* FavoriteBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FD770C2C6FB50900DFD6D7 /* FavoriteBookApp.swift */; };
 		A3FD770F2C6FB50900DFD6D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FD770E2C6FB50900DFD6D7 /* ContentView.swift */; };
 		A3FD77112C6FB50A00DFD6D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3FD77102C6FB50A00DFD6D7 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A32FBA0E2C6FF94600552850 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 		A3FD77092C6FB50900DFD6D7 /* FavoriteBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavoriteBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3FD770C2C6FB50900DFD6D7 /* FavoriteBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteBookApp.swift; sourceTree = "<group>"; };
 		A3FD770E2C6FB50900DFD6D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				A3FD770C2C6FB50900DFD6D7 /* FavoriteBookApp.swift */,
 				A3FD770E2C6FB50900DFD6D7 /* ContentView.swift */,
 				A3FD771A2C6FB68A00DFD6D7 /* FavoriteModel.swift */,
+				A32FBA0E2C6FF94600552850 /* DetailsView.swift */,
 				A3FD77102C6FB50A00DFD6D7 /* Assets.xcassets */,
 				A3FD77122C6FB50A00DFD6D7 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3FD771B2C6FB68A00DFD6D7 /* FavoriteModel.swift in Sources */,
+				A32FBA0F2C6FF94600552850 /* DetailsView.swift in Sources */,
 				A3FD770F2C6FB50900DFD6D7 /* ContentView.swift in Sources */,
 				A3FD770D2C6FB50900DFD6D7 /* FavoriteBookApp.swift in Sources */,
 			);
