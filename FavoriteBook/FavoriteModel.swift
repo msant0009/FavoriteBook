@@ -29,3 +29,13 @@ let marge = FavoriteElements(name: "Marge", imageName: "Marge", description: "Mo
 
 let favoriteSimpsons = FavoriteModel(title: "Favorite Simpson", elements: [homer, marge, bart, lisa])
 
+let moe = FavoriteElements(name: "Moe", imageName: "Moe", description: "Bartender")
+let krusty = FavoriteElements(name: "Krusty", imageName: "Krusty", description: "Clown")
+let ned = FavoriteElements(name: "Ned", imageName: "Ned", description: "Neighbor")
+let apu = FavoriteElements(name: "Apu", imageName: "Apu", description: "Seven-Eleven")
+
+let favoriteSpringfielders = FavoriteModel(title: "Favorite Springfielders", elements: [moe, krusty,ned,apu ])
+
+let myFavorites = [favoriteSimpsons, favoriteSpringfielders]
+
+
